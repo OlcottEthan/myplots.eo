@@ -1,0 +1,1 @@
+This is a package containing plotting functions for Ethan Olcott in the class MATH 3190, Intro to Data Analytics.
