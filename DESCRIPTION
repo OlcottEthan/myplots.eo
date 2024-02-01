@@ -1,10 +1,10 @@
 Package: myplots.eo
 Title: This Package Contains Useful Plotting Functions
-Version: 0.0.0.9000
+Version: 0.0.1.0000
 Authors@R: 
     person("Ethan", "Olcott", , "ethanolcott99@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: the package contains common plotting styles that will be used for Ethan Olcott throughout the duration of the course MATH 3190, Intro to Data Analytics.
+Description: the package contains common plotting styles that will be used for Ethan Olcott throughout the duration of the course MATH 3190, Intro to Data Analytics. It contains functions on graphing simple boxplots, scatterplots, influence plots and histograms.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
